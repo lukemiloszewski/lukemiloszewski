@@ -3,7 +3,6 @@ name: Update Image 🌈
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 1 UTC everyday
     - cron: "0 */6 * * *"
 
 jobs:
