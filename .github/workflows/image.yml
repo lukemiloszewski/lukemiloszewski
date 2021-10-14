@@ -13,4 +13,7 @@ jobs:
     steps:
       - uses: siddharth2016/update-readme-image@main
         with:
+          HEIGHT: 100%
+          WIDTH: 100%
+          ALIGN: centre
           IMG_ALT: Around The World
