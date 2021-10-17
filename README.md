@@ -1,4 +1,3 @@
-<!-- ![holiday](holiday.gif) -->
 <p align="center">
-  <img src="/holiday.gif" width="100%"/>
+  <img src="/time.gif" width="100%"/>
 </p>
