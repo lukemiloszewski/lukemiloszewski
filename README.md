@@ -1,3 +1,4 @@
+<pre>
 🚀 **Luke Miloszewski**
 ├─💾 **Recent Projects**
 │ ├─ [python-template](https://github.com/lukemiloszewski/python-template)
@@ -15,3 +16,4 @@
 └─🍎 **Education**
   ├─ BSc Computer Science and Applied Statistics, University of Cape Town
   └─ BCom Finance and Economics, University of Cape Town
+<pre>
