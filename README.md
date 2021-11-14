@@ -1,5 +1,4 @@
 <pre>
-
 💾 <b>Luke Miloszewski</b>
 │
 ├─☀️ <b>About Me</b>
@@ -19,5 +18,4 @@
 │
 └─📬 <b>Contact Me</b>  
   └─ <a href="mailto:lukemiloszewski@gmail.com">gmail.com</a> / <a href="https://linkedin.com/in/lukemiloszewski">linkedin.com</a> / <a href="https://twitter.com/lukemiloszewski">twitter.com</a>
-
 </pre>
