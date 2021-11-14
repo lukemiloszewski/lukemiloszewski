@@ -2,7 +2,8 @@
 
 💾 <b>Luke Miloszewski</b>  
 ├─☀️ <b>About Me</b>
-│ └─ <p>I'm a technologist from Cape Town, South Africa passionate about software engineering, machine learning and blockchain technology</p>
+│ ├─ I'm a full-stack software engineer from Cape Town, South Africa
+│ └─ I'm passionate about software, ML and Web3
 ├─📝 <b>Recent Posts</b>  
 │ ├─ <a href="https://www.lukemiloszewski.com/blog/database-migrations-with-alembic">Database Migrations with Alembic and SQLAlchemy</a> - 07 Nov 2021
 │ ├─ <a href="https://www.lukemiloszewski.com/blog/abstract-class-variables">Enforcing Abstract Class Variables in Python</a> - 05 Nov 2021
