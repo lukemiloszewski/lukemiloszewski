@@ -2,13 +2,13 @@
 💾 <b>Luke Miloszewski</b>
 │
 ├─☀️ <b>About Me</b>
-│ ├─ I'm a full-stack software engineer from Cape Town, South Africa
-│ └─ I'm passionate about machine learning and web3
+│ ├─ Full-stack software engineer from Cape Town, South Africa
+│ └─ Passionate about machine learning and web3
 │
 ├─🎸 <b>Recent Projects</b>
-│ ├─ <a href="https://github.com/lukemiloszewski/python-template">python-template</a> - A modern package template for Python
+│ ├─ <a href="https://github.com/lukemiloszewski/python-template">python-template</a> - A modern package template to automate python development
 │ ├─ <a href="https://www.lukemiloszewski.xyz">lukemiloszewski.xyz</a> - My digital portfolio
-│ └─ <a href="https://www.lukemiloszewski.com">lukemiloszewski.com</a> - My digital garden
+│ └─ <a href="https://www.lukemiloszewski.com">lukemiloszewski.com</a> - My digital garden of learnings and thoughts
 │
 ├─📝 <b>Recent Posts</b>
 │ ├─ <a href="https://www.lukemiloszewski.com/blog/instance-class-static-methods">Instance, Class and Static Methods in Python</a> - 21 Nov 2021
