@@ -7,8 +7,8 @@
 │
 ├─🎸 <b>Recent Projects</b>
 │ ├─ <a href="https://github.com/lukemiloszewski/python-template">python-template</a> - A modern package template to automate python development
-│ ├─ <a href="https://www.lukemiloszewski.xyz">lukemiloszewski.xyz</a> - My digital portfolio
-│ └─ <a href="https://www.lukemiloszewski.com">lukemiloszewski.com</a> - My digital garden of learnings and thoughts
+│ ├─ <a href="https://www.lukemiloszewski.xyz">lukemiloszewski.xyz</a> - My digital portfolio (skills and experience)
+│ └─ <a href="https://www.lukemiloszewski.com">lukemiloszewski.com</a> - My digital garden (learnings and thoughts)
 │
 ├─📝 <b>Recent Posts</b>
 │ ├─ <a href="https://www.lukemiloszewski.com/blog/instance-class-static-methods">Instance, Class and Static Methods in Python</a> - 21 Nov 2021
