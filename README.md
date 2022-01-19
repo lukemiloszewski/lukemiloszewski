@@ -5,10 +5,10 @@
 │ └─ Full-stack software engineer from Cape Town, South Africa
 │
 │─🌴 <b>Experience</b>  
-│ ├─ Ninety One, Software Engineer
-│ ├─ Centre for Artificial Intelligence Research, Machine Learning Intern
-│ ├─ ABSA Corporate and Investment Bank, Data Science Intern
-│ └─ Facebook, Software Engineering Intern
+│ ├─ Software Engineer, Ninety One
+│ ├─ Machine Learning Intern, Centre for Artificial Intelligence Research
+│ ├─ Data Science Intern, ABSA Corporate and Investment Bank
+│ └─ Software Engineering Intern, Facebook
 |
 │─🍎 <b>Education</b>  
 │ ├─ BSc Computer Science and Applied Statistics, University of Cape Town
