@@ -2,8 +2,7 @@
 💾 <b>Luke Miloszewski</b>
 │
 ├─☀️ <b>About Me</b>
-│ ├─ Full-stack software engineer from Cape Town, South Africa
-│ └─ Passionate about building an open web for creative freedom
+│ └─ Full-stack software engineer from Cape Town, South Africa
 │
 │─🌴 <b>Experience</b>  
 │ ├─ Ninety One, Software Engineer
