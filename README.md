@@ -15,5 +15,5 @@
 │ └─ BCom Finance and Economics, University of Cape Town
 │
 └─📬 <b>Contact Me</b>  
-  └─ <a href="mailto:lukemiloszewski@gmail.com">gmail.com</a> / <a href="https://linkedin.com/in/lukemiloszewski">linkedin.com</a> / <a href="https://twitter.com/lukemiloszewski">twitter.com</a>
+  └─ <a href="https://www.lukemiloszewski.xyz">lukemiloszewski.xyz</a>
 </pre>
