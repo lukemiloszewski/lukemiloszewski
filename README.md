@@ -1,18 +1,15 @@
 <pre>
-💾 <b>Luke Miloszewski</b>
+☀️ <b>Luke Miloszewski</b>
 │
-├─☀️ <b>About</b>
-│ └─ Full-stack software engineer from Cape Town
-│
-│─🌴 <b>Work Experience</b>  
-│ ├─ Software Engineer, Ninety One
-│ ├─ Machine Learning Intern, Centre for Artificial Intelligence Research
-│ ├─ Data Science Intern, ABSA Corporate and Investment Bank
-│ └─ Software Engineering Intern, Facebook
-│
-│─📜 <b>Education</b>  
-│ ├─ BSc Computer Science and Applied Statistics, University of Cape Town
-│ └─ BCom Finance and Economics, University of Cape Town
+├─🌴 <b>Projects</b>
+│ ├─ <a href="https://github.com/lukemiloszewski/ml-models">ml-models</a>
+│ ├─ <a href="https://github.com/lukemiloszewski/ansible-playbooks">ansible-playbooks</a>
+│ ├─ <a href="https://github.com/lukemiloszewski/olympia">olympia</a>
+│ ├─ <a href="https://github.com/lukemiloszewski/python-template">python-template</a>
+│ ├─ <a href="https://github.com/lukemiloszewski/crypto-charts">crypto-charts</a>
+│ ├─ <a href="https://github.com/lukemiloszewski/py-wasm">py-wasm</a>
+│ ├─ <a href="https://github.com/lukemiloszewski/asyntree">asyntree</a>
+│ └─ <a href="https://github.com/lukemiloszewski/dotfiles">dotfiles</a>
 │
 └─🍓 <b>Website</b>  
   └─ <a href="https://www.lukemiloszewski.xyz">lukemiloszewski.xyz</a>
